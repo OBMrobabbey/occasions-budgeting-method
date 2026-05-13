@@ -2,14 +2,14 @@
 Official authorship and timestamp for the Occasions Budgeting Method.
 
 ## The Celebrations Budget
-The Occasions Budgeting Method (OBM) is the behavioural framework underlying **The Celebrations Budget** — a structured, intentional approach to choosing the moments in a year when alcohol is part of a celebration. The Celebrations Budget frames drinking not as routine consumption, but as something reserved for meaningful, pre‑selected occasions.
+**The Celebrations Budget** is the public-facing expression of this framework — a structured, intentional way to choose the moments in a year when alcohol is part of a celebration. It reframes drinking as something tied to significance rather than habit, helping ensure that the occasions you choose genuinely matter.
 
 ## Occasions Budgeting Method (OBM)
 Created by Rob, 2026.
 
-OBM is an annualised behavioural system that uses a fixed allocation of “Occasions” to regulate alcohol consumption through pre‑commitment, scarcity, and intentional planning. An Occasion is a pre‑declared period — from a single event to a multi‑day holiday — during which alcohol use is permitted under a fixed annual allocation.
+The Occasions Budgeting Method (OBM) is the behavioural system that underpins The Celebrations Budget. OBM uses a fixed annual allocation of “Occasions” to regulate alcohol consumption through pre‑commitment, scarcity, and intentional planning. An Occasion is defined as a pre‑declared period — from a single event to a multi‑day holiday — during which alcohol use is permitted under a fixed annual allocation.
 
-OBM provides the structural backbone for The Celebrations Budget, ensuring that celebratory drinking is tied to significance, not habit.
+OBM provides the structural backbone for The Celebrations Budget, ensuring that celebratory drinking is meaningful, deliberate, and aligned with personal values.
 
 ## Purpose of this Repository
 Full documentation is held privately by the author.  
